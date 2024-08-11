@@ -1,5 +1,5 @@
 <h1 align="center"> Mi.Rich¥ BUG BOT </h1>
-<p align="center">  
+<p align="center">  Mi.Richy
   
 ***
   

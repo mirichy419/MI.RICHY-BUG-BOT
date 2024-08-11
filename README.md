@@ -29,7 +29,7 @@ If you clone my repo or use as base bot, dont forget to give credits. Mi.RICH¥_
 
  **2.DEPLOYMENT PROCESS**
 ### DEPLOY ON PANEL
-IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY YOUR BUG BOT 
+IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY YOUR MI.RICH¥ BUG BOT 
     <br>
     <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=black'/></a>
 
@@ -42,7 +42,7 @@ src='https://img.shield.io/badge/-Deploy-red?style=for-the-badge&logo=heroku&log
 ### DEPLOYMENT ON TOYSTACK
 IF YOU DON'T HAVE A TOYSTACK ACCOUNT.CREAT ONE TO DEPLOY YOUR MI.RICH¥-BUG-BOT
    <br>
-   <a 
+  
     <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='TOYSTACK' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=toystack&logoColor=black'/></a>
 
 UPLOADING - HOW TO UPLOAD MI.RICH¥ BUG BOT FILE ON YOUR PANEL. Open the server,click on files,click on upload,chose storage,use the search bar in your storage to locate the file then select it..wait for it to finish uploading.use the tree ... Then unarchive.click on the name the file on top.check ✅ the box on the "/home/container,click Move,chose the directory. If you can't see this type (../) in the box then move..go to console and click on start to run.

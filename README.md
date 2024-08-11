@@ -35,7 +35,10 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY YOUR BUG BOT
 
 ### DEPLOYMENT ON HEROKU
 IF YOU DON'T HAVE A HEROKU ACCOUNT CREAT ONE AND DEPLOY YOUR MI.RICH¥-BUG-BOT
-https://signup.heroku.com
+    <br>
+    <a href='https://signup.heroku.com' target="_blank"><img alt='Heroku'
+src='https://img.shield.io/badge/-Deploy-blue?style=for-the-badge&logo=heroku&logocolor=blue'/></a>
+
 
 UPLOADING - HOW TO UPLOAD MI.RICH¥ BUG BOT FILE ON YOUR PANEL. Open the server,click on files,click on upload,chose storage,use the search bar in your storage to locate the file then select it..wait for it to finish uploading.use the tree ... Then unarchive.click on the name the file on top.check ✅ the box on the "/home/container,click Move,chose the directory. If you can't see this type (../) in the box then move..go to console and click on start to run.
 

@@ -1,9 +1,9 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @prexzyvilla
-//Instagram: prexzy.ay
-//Telegram: t.me/prexzyvilla_tech
-//GitHub: @Prexzybooster
-//WhatsApp: +2349159895444
+//YouTube: @mi.Richy_tech
+//Instagram: @mi.Richy
+//Telegram: t.me/mi.Richy_tech
+//GitHub: @mi.Richy419
+//WhatsApp: +2348142909904
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Prexzyvilla
 
 require('./settings')
@@ -31,7 +31,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "2349159895444"
+let phoneNumber = "2348142909904"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -77,18 +77,18 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349159895444")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2348142909904")))
             process.exit(0)
          }
       } else {
-         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +2349159895444 : `)))
+         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +2348142909904 : `)))
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          // Ask again when entering the wrong number
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
-            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2349159895444")))
+            console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +2348142909904")))
 
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +2349159895444 : `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +2348142909904 : `)))
             phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
             rl.close()
          }
@@ -175,9 +175,9 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Prexzyvilla`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: Prexzybooster `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @prexzy.ay `))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: mi.Richy_Tech`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: mi.Richy419 `))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @mi.Richy `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
         }

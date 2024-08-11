@@ -1,39 +1,42 @@
-<h1 align="center"> PREXZY BUG BOT </h1>
+<h1 align="center"> Mi.Rich¥ BUG BOT </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREXZY-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+05.08.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Mi.Rich¥-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+MCHAEL+MI.RICH¥;RELEASED+12.08.24;MADE WITH LOVE " alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
+  <a href="https://whatsapp.com/channel/0029VagTGyuI1rcotBW2mn3p">
     <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
-    <h1 align="center">PREXZY-BUG-BOT</h1>
+    <h1 align="center">MI.RICH¥-BUG-BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2349159895444"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/MI.RICHY¥"><img title="Author" src="https://img.shields.io/badge/MI.RICH¥-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VagTGyuI1rcotBW2mn3p"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black/white?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2348142909904"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
 
-PREXZY BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+MI.RICH¥ BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
+If you clone my repo or use as base bot, dont forget to give credits. Mi.RICH¥_TECH
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Prexzybooster/PREXZY-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/mirichy419/MI.RICHY-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Black'/></a>
    
 
 
  **2.DEPLOYMENT PROCESS**
 ### DEPLOY ON PANEL
-IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY 
+IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY YOUR BUG BOT 
     <br>
-    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=black'/></a>
 
-UPLOADING - HOW TO UPLOAD PREXZY BUG BOT FILE ON YOUR PANEL. Open the server,click on files,click on upload,chose storage,use the search bar in your storage to locate the file then select it..wait for it to finish uploading.use the tree ... Then unarchive.click on the name the file on top.check ✅ the box on the "/home/container,click Move,chose the directory. If you can't see this type (../) in the box then move..go to console and click on start to run.
+### DEPLOYMENT ON HEROKU
+IF YOU DON'T HAVE A HEROKU ACCOUNT CREAT ONE AND DEPLOY YOUR MI.RICH¥-BUG-BOT
+
+UPLOADING - HOW TO UPLOAD MI.RICH¥ BUG BOT FILE ON YOUR PANEL. Open the server,click on files,click on upload,chose storage,use the search bar in your storage to locate the file then select it..wait for it to finish uploading.use the tree ... Then unarchive.click on the name the file on top.check ✅ the box on the "/home/container,click Move,chose the directory. If you can't see this type (../) in the box then move..go to console and click on start to run.
 
 ### DEPLOYMENT ON TERMUX
 
@@ -65,7 +68,7 @@ termux-setup-storage
 git clone  (copy and paste your forked repo not mine to save your changes) 
 
 
-cd PREXZY-BUG-BOT
+cd MI.RICH¥-BUG-BOT
 
 yarn install
    
@@ -87,33 +90,35 @@ If you see any question while upgrading with this options with Y or n for defaul
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: (https://wa.me/2349159895444) 
+WhatsApp: (https://wa.me/2348142909904) 
 
 If the bot goes offline 
 Just type cd and the bot name 
 Then type npm start
 It will come online
 
-`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
+`Please MI.RICH¥ BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to MI.RICH¥ BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
    **Xeon** who made the base bot
 
-   **PRECIOUS AYOMIDE** For developing it; <br>
+   **MICHAEL_MI.RICH¥** For developing it; <br>
 
 
 ## License
 
-The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot MI.RICH¥ BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
--PRECIOUS AYOMIDE
+-MICHAEL_MI.RICH¥
+## RIGHTFUL OWNER:
+-MICHAEL

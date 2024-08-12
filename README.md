@@ -1,5 +1,5 @@
 <h1 align="center"> Mi.Rich¥ BUG BOT </h1>
-<p align="center">  
+<p align="center">  ‎Follow the ##___Mi.Rįçh¥_Tech___## channel on WhatsApp: https://whatsapp.com/channel/0029VagTGyuI1rcotBW2mn3p
   
 ***
   

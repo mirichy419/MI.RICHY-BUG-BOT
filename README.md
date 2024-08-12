@@ -1,7 +1,7 @@
 <h1 align="center"> Mi.Rich¥ BUG BOT </h1>
 <p align="center">  ‎
   
-***‎Follow the ##___Mi.Rįçh¥_Tech___## channel on WhatsApp: https://whatsapp.com/channel/0029VagTGyuI1rcotBW2mn3p
+***‎
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Mi.Rich¥-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+MCHAEL+MI.RICH¥;RELEASED+12.08.24;MADE WITH LOVE " alt="Typing SVG" /></a>
   </p>
